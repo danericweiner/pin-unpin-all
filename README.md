@@ -8,11 +8,11 @@ A Chrome browser extension that adds a button to pin or unpin all the tabs in th
 
 ## Description
 
-Toggle the pinning or unpinning of all the tabs in the current window.
+Click the icon to toggle pin/unpin all tabs in active window based on the state of the active tab.
 
-*\*New icon color to work with dark themes!\**
+Icon works with dark and light themes.
 
-Press the button to toggle based on the state of the active tab.
+Update (v2.0): Updated to Manifest V3 for Chrome Extensions
 
 ## Support
 
